@@ -1,0 +1,11 @@
+# Junk Data Files
+.DS_Store
+*/.DS_Store
+
+# Cached Python Files
+__pycache__/
+*/__pycache__/
+
+# Environment Variables
+.env
+*/.env
