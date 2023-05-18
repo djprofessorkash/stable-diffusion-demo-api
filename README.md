@@ -9,7 +9,7 @@
 <h4 align="center">A demo app for promoting and making use of the Stable Diffusion algorithm for AI-driven image generation.</h1>
 
 <kbd>
-    <img src="static/img/puppy-blue-eyes-staring-snowy.png" alt="Project Banner" width=60% height=60%/>
+    <img src="static/img/puppy-looking-up-snowy-window.png.png" alt="Project Banner" width=60% height=60%/>
 </kbd>
 
 ## Introduction
