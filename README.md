@@ -107,7 +107,7 @@ To launch this project on your own local development environment, please go thro
 7. Once you've created your token, open your `.env` file and add your access token on a single line, such as `HF_ACCESS_TOKEN="your_access_token_goes_here"`.
 8. Create and set up a virtual environment built off of the `backend/requirements.txt` file that can manage project dependencies without bloating your global configuration.
     - First, call `python3 -m venv [VIRTUAL_ENVIRONMENT_NAME]` to produce a virtual environment subfolder within `backend` that will track Python dependencies needed for the project – be sure to rename the final argument/flag to an environment name of your choice. 
-    - Active your virtual environment using the command `[VIRTUAL_ENVIRONMENT_NAME]/bin/activate`. 
+    - Active your virtual environment using the command `source [VIRTUAL_ENVIRONMENT_NAME]/bin/activate`. 
     - With your environment active, set up your virtual dependencies by running `pip3 install -r requirements.txt`.
 9. Your backend is now ready to be activated. Activate it by running `uvicorn main:app --port 8885`. 
 10. With your backend now active, navigate to your frontend folder by traveling back to your root directory and back down to the relevant subdirectory.
