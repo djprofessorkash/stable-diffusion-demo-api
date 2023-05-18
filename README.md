@@ -1,6 +1,14 @@
-<h3 align="center">FULL-STACK PYTHON + REACT PROJECT:</h3>
+<p align="center">
+    <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+    <a href="https://fastapi.tiangolo.com/lo/"><img src="https://img.shields.io/badge/FastAPI-%2320232a?style=for-the-badge&logo=fastapi" /></a>
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+    <a href="https://bulma.io/"><img src="https://img.shields.io/badge/bulma-%2320232a?style=for-the-badge&logo=bulma&logoColor=white" /></a>
+</p>
+
 <h1 align="center">✍🏽 <b>Stable Diffusion API</b> 🎨</h1>
 <h4 align="center">A demo app for promoting and making use of the Stable Diffusion algorithm for AI-driven image generation.</h1>
+
+![PROJECT BANNER](static/img/stable-diffusion-genimg-snowy-puppy.png)
 
 ## Introduction
 
