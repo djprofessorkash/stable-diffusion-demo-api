@@ -16,10 +16,16 @@ This project is a full-stack minimalist web app with the goal of integrating the
 
 * **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
   * **[React](https://react.dev/)**
+    * **~~React Native~~**
+  * **~~Next~~**
+    * **~~Tailwind CSS~~**
 * **[Python]()**
   * **[FastAPI](https://fastapi.tiangolo.com/lo/)**
+  * **~~Flask~~**
 * **[HuggingFace](https://huggingface.co/)**
-  * **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)**
+  * **[Stable Diffusion v1.4](https://github.com/Stability-AI/stablediffusion)**
+* **~~SQL~~**
+  * **~~SQLite~~**
 
 ## Project Directory Hierarchy
 
@@ -100,9 +106,18 @@ To launch this project on your own local development environment, please go thro
     - Next, run `npm start` to load the web project on your local machine. 
 12. Play around with the web app and have fun! 
 
+## Future Features
+
+- Fully actualize React frontend as a demo application with information on Stable Diffusion and AI.
+- Extend frontend with **Next.js** and **Tailwind CSS** for an improved user experience.
+- Extend backend with **Flask** for more scalable routing.
+- Complete image saving button functionality. 
+
 ## Acknowledgements
 
 Thanks to **[Laura Uzcategui](https://github.com/laurauzcategui)** for her original project demo available on GitHub for public access. 
+
+Thanks to **[Flatiron School](https://flatironschool.com/welcome-to-flatiron-school/)** for providing a next-generation experience for aspiring developers to learn how to code using bleeding-edge software engineering technologies.
 
 ## Credits
 
