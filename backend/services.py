@@ -17,7 +17,8 @@ pipeline = StableDiffusionPipeline.from_pretrained(
 if torch.backends.mps.is_available():
     device = "mps"
 else:
-    device = "cuda" if torch.cuda.is_available() else "cpu"
+    # device = "cuda" if torch.cuda.is_available() else "cpu"       # Setup CPU usage for lower-power devices
+    device = "cuda" if torch.cuda.is_available() else "gpu"         # Setup GPU usage for higher-power devices
 
 pipeline.to(device)
 
